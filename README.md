@@ -16,3 +16,12 @@ For this initial project, I've focused on extracting data from Twitter using Pyt
 
 Airflow, with its intuitive interface and robust scheduling capabilities, plays a central role in this project. By running the code developed in Python through Airflow, I automated the extraction process. The extracted data is then seamlessly stored in an AWS S3 folder, ready for further analysis or utilisation in downstream processes.
 
+📈 Next Steps:
+
+While this project represents a solid foundation, it's only the beginning. In the coming weeks, I'll be exploring more intricate pipelines, diving deeper into data manipulation, and leveraging the full potential of tools like Airflow and AWS.
+
+🙏 Thank You:
+
+Thank you for joining me on this journey! I'm excited to share my progress and learnings with you as we navigate through the exciting realm of data engineering. Feel free to explore the code, provide feedback, or reach out with any questions or ideas. Together, let's push the boundaries of what's possible with data!
+
+Happy coding! 🌟
