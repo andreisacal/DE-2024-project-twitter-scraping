@@ -22,6 +22,6 @@ While this project represents a solid foundation, it's only the beginning. In th
 
 🙏 Thank You:
 
-Thank you for joining me on this journey! I'm excited to share my progress and learnings with you as we navigate through the exciting realm of data engineering. Feel free to explore the code, provide feedback, or reach out with any questions or ideas. Together, let's push the boundaries of what's possible with data!
+Thank you for joining me on this journey! I'm excited to share my progress and learnings as I go. Feel free to explore the code, provide feedback, or reach out with any questions or ideas.
 
 Happy coding! 🌟
