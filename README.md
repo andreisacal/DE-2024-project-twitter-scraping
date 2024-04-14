@@ -29,3 +29,8 @@ Happy coding! 🌟
 ## Project Architecture
 
 ![Untitled Diagram](https://github.com/andreisacal/W01-DE-Twtitter-Scraping/assets/166915179/3ae79e0f-50cb-464c-b246-51187d070f49)
+
+## Getting Started
+
+1. An [AWS](https://aws.amazon.com/) account.
+2. 
