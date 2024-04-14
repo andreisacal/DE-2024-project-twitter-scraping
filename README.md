@@ -25,3 +25,8 @@ While this project represents a solid foundation, it's only the beginning. In th
 Thank you for joining me on this journey! I'm excited to share my progress and learnings as I go. Feel free to explore the code, provide feedback, or reach out with any questions or ideas.
 
 Happy coding! 🌟
+
+## Project Architecture
+---
+
+![Untitled Diagram](https://github.com/andreisacal/W01-DE-Twtitter-Scraping/assets/166915179/3ae79e0f-50cb-464c-b246-51187d070f49)
