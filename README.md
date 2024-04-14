@@ -27,6 +27,5 @@ Thank you for joining me on this journey! I'm excited to share my progress and l
 Happy coding! 🌟
 
 ## Project Architecture
----
 
 ![Untitled Diagram](https://github.com/andreisacal/W01-DE-Twtitter-Scraping/assets/166915179/3ae79e0f-50cb-464c-b246-51187d070f49)
