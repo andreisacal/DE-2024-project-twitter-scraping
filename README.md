@@ -34,4 +34,5 @@ Happy coding! 🌟
 
 ### Prerequisites
 1. [AWS](https://aws.amazon.com/) account.
-2. 
+2. [ScraperAPI](https://www.scraperapi.com/) account.
+3. IDE of your choice, I used [VSCode](https://code.visualstudio.com/)
