@@ -30,14 +30,7 @@ Happy coding! 🌟
 
 ![Untitled Diagram](https://github.com/andreisacal/W01-DE-Twtitter-Scraping/assets/166915179/3ae79e0f-50cb-464c-b246-51187d070f49)
 
-## Getting Started
+## How the Pipeline Works
 
-### Prerequisites
-1. [AWS](https://aws.amazon.com/) account.
-2. [ScraperAPI](https://www.scraperapi.com/) account.
-3. IDE of your choice, I used [VSCode](https://code.visualstudio.com/)
+### Data Pipeline
 
-### Local Testing
-
-Opened VSCode, created a directory folder and inside the folder I created a file named "twitter_etl.py"
-![image](https://github.com/andreisacal/W01-DE-Twtitter-Scraping/assets/166915179/045a3f37-8975-4241-a034-09fda2e10db1)
