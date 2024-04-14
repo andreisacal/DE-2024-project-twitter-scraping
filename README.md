@@ -36,3 +36,8 @@ Happy coding! 🌟
 1. [AWS](https://aws.amazon.com/) account.
 2. [ScraperAPI](https://www.scraperapi.com/) account.
 3. IDE of your choice, I used [VSCode](https://code.visualstudio.com/)
+
+### Local Testing
+
+Opened VSCode, created a directory folder and inside the folder I created a file named "twitter_etl.py"
+![image](https://github.com/andreisacal/W01-DE-Twtitter-Scraping/assets/166915179/045a3f37-8975-4241-a034-09fda2e10db1)
