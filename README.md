@@ -42,3 +42,11 @@ Happy coding! 🌟
 6. Data Query and Display: After the data is stored in the desired location (S3 bucket), it can be queried and displayed using various AWS services like AWS Glue, Amazon Athena, or Amazon Redshift.
 
 This pipeline automates the process of collecting Twitter data, storing it in a reliable and scalable storage solution (Amazon S3), and sets the stage for further analysis and visualization using AWS services.
+
+![image](https://github.com/andreisacal/W01-DE-Twtitter-Scraping/assets/166915179/b6d60442-0241-4ba5-afa8-84bc937b658c)
+![image](https://github.com/andreisacal/W01-DE-Twtitter-Scraping/assets/166915179/57ad291b-cd9c-4ff5-a1d7-1289fc57b567)
+![image](https://github.com/andreisacal/W01-DE-Twtitter-Scraping/assets/166915179/f0119777-abbf-4886-8830-051bfb87f366)
+
+## Services Used
+
+#### * APIs: [ScraperAPI](https://www.scraperapi.com/)
