@@ -12,8 +12,8 @@ def run_twitter_etl():
 
     # Set parameters that will dictate how the Twitter search will work
     payload = {
-        "api_key":"1c3cbb3fe90460c3cd3b66a873d6e29f", #scraper api key
-        "query": "AWS", #twitter search query
+        "api_key":"API_KEY", #scraper api key
+        "query": "TWEET_SEARCH", #twitter search query
         "num": "50" #number of tweets to scrape
     }
 
