@@ -53,7 +53,7 @@ This pipeline automates the process of collecting Twitter data, storing it in a 
 ## Services Used
 
 - #### APIs: [ScraperAPI](https://www.scraperapi.com/)
-- #### AWS: [ScraperAPI](https://www.scraperapi.com/)
+- #### AWS: [AWS](https://aws.amazon.com/)
   - #### EC2: [EC2](https://aws.amazon.com/ec2/)
   - #### S3: [S3](https://aws.amazon.com/s3/)
   - #### ATHENA: [S3](https://aws.amazon.com/athena/)
