@@ -10,7 +10,7 @@ As I embark on this journey into the world of data engineering, I've decided to 
 
 🔍 Project Overview:
 
-For this initial project, I've focused on extracting data from Twitter using Python. Leveraging libraries and ScaperAPI, I've developed code that scrapes tweets and stores it as an CSV file. The real magic happens when this code is deployed onto an EC2 machine configured with Ubuntu. Here, I've set up Airflow to orchestrate the entire process. 
+For this initial project, I've focused on extracting data from Twitter using Python. Leveraging libraries and APIs, I've developed code that scrapes tweets and stores it as an CSV file. The real magic happens when this code is deployed onto an EC2 machine configured with Ubuntu. Here, I've set up Airflow to orchestrate the entire process. 
 
 🛠️ Technical Details:
 
