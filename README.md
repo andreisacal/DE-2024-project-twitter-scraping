@@ -45,8 +45,8 @@ This pipeline automates the process of collecting Twitter data, storing it in a 
 
 ![image](https://github.com/andreisacal/W01-DE-Twtitter-Scraping/assets/166915179/b6d60442-0241-4ba5-afa8-84bc937b658c)
 ![image](https://github.com/andreisacal/W01-DE-Twtitter-Scraping/assets/166915179/57ad291b-cd9c-4ff5-a1d7-1289fc57b567)
-![image](https://github.com/andreisacal/W01-DE-Twtitter-Scraping/assets/166915179/f0119777-abbf-4886-8830-051bfb87f366)
+![image](https://github.com/andreisacal/W01-DE-Twtitter-Scraping/assets/166915179/68de744a-0268-449d-9bf9-4f35c0754c6b)
 
 ## Services Used
 
-#### * APIs: [ScraperAPI](https://www.scraperapi.com/)
+- #### APIs: [ScraperAPI](https://www.scraperapi.com/)
