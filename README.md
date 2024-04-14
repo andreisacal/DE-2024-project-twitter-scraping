@@ -11,3 +11,8 @@ As I embark on this journey into the world of data engineering, I've decided to 
 🔍 Project Overview:
 
 For this initial project, I've focused on extracting data from Twitter using Python. Leveraging libraries and ScaperAPI, I've developed code that scrapes tweets and stores it as an CSV file. The real magic happens when this code is deployed onto an EC2 machine configured with Ubuntu. Here, I've set up Airflow to orchestrate the entire process. 
+
+🛠️ Technical Details:
+
+Airflow, with its intuitive interface and robust scheduling capabilities, plays a central role in this project. By running the code developed in Python through Airflow, I automated the extraction process. The extracted data is then seamlessly stored in an AWS S3 folder, ready for further analysis or utilisation in downstream processes.
+
