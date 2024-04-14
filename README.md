@@ -34,9 +34,11 @@ Happy coding! 🌟
 
 ### Data Pipeline
 
-1. Scheduler Trigger: Airflow triggers the execution of the ETL process defined in "twitter_etl.py".
-2. Twitter Data Collection: "twitter_etl.py" sends a request to the Twitter using a scraper API key and a specified search query. It collects Twitter data, processes the response, and formats it into a list.
+1. Scheduler Trigger: Airflow triggers the execution of the ETL process defined in `twitter_etl.py`.
+2. Twitter Data Collection: `twitter_etl.py` sends a request to the Twitter using a scraper API key and a specified search query. It collects Twitter data, processes the response, and formats it into a list.
 3. Data Formatting: The collected Twitter data is converted into a pandas DataFrame for better manipulation and analysis.
-4. CSV File Creation: The DataFrame is exported as a CSV file named "AWS_twitter_data.csv".
+4. CSV File Creation: The DataFrame is exported as a CSV file named `AWS_twitter_data.csv`.
 5. Data Upload to S3: The CSV file is uploaded to an Amazon S3 bucket using the s3fs library, making it accessible for storage and further processing.
 6. Data Query and Display: After the data is stored in the desired location (S3 bucket), it can be queried and displayed using various AWS services like AWS Glue, Amazon Athena, or Amazon Redshift.
+
+This pipeline automates the process of collecting Twitter data, storing it in a reliable and scalable storage solution (Amazon S3), and sets the stage for further analysis and visualization using AWS services.
