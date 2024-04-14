@@ -32,5 +32,6 @@ Happy coding! 🌟
 
 ## Getting Started
 
-1. An [AWS](https://aws.amazon.com/) account.
+### Prerequisites
+1. [AWS](https://aws.amazon.com/) account.
 2. 
