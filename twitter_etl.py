@@ -33,6 +33,6 @@ def run_twitter_etl():
     df = pd.DataFrame(twitter_data)
 
     # Export the DataFrame as a CSV file named "AWS_twitter_data.csv"
-    df.to_csv("s3://andrei-airflow-etl/data/AWS_twitter_data.csv")
+    df.to_csv("s3://(s3_bucket)/(s3_folder)/(file_name).csv")
 
     print("Twitter scraped and file saved successfully!")
