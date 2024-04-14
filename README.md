@@ -42,8 +42,12 @@ Happy coding! 🌟
 
 This pipeline automates the process of collecting Twitter data, storing it in a reliable and scalable storage solution (Amazon S3), and sets the stage for further analysis and visualization using AWS services.
 
-![image](https://github.com/andreisacal/W01-DE-Twtitter-Scraping/assets/166915179/b6d60442-0241-4ba5-afa8-84bc937b658c)
+![image](https://github.com/andreisacal/W01-DE-Twtitter-Scraping/assets/166915179/8ed80ce7-efe6-4401-b631-a30023d9c418)
+
 ![image](https://github.com/andreisacal/W01-DE-Twtitter-Scraping/assets/166915179/57ad291b-cd9c-4ff5-a1d7-1289fc57b567)
+
+![image](https://github.com/andreisacal/W01-DE-Twtitter-Scraping/assets/166915179/52f3a0a6-1859-4510-bc59-ea9d33ec851f)
+
 ![image](https://github.com/andreisacal/W01-DE-Twtitter-Scraping/assets/166915179/68de744a-0268-449d-9bf9-4f35c0754c6b)
 
 ## Services Used
