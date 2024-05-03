@@ -2,7 +2,7 @@
 
 🚀 Introduction:
 
-Welcome to my journey in the world of data engineering! As I embark on this exciting endeavour, I am thrilled to share with you my passion for mastering the skill of transforming raw data into valuable insights. With each passing weekend, I am committed to challenging myself to complete a new data engineering project in order to push the boundaries of my skills and knowledge.
+Welcome to my journey in the world of data engineering! As I embark on this exciting endeavour, I am thrilled to share with you my passion for mastering the skill of transforming raw data into valuable insights.
 
 Through this series of projects, I aim to not only deepen my understanding of fundamental data engineering concepts but also to improve my practical abilities in designing robust data pipelines, optimising data workflows and leveraging the power of tools and technologies.
 
@@ -15,10 +15,6 @@ For this initial project, I've focused on extracting data from Twitter using Pyt
 🛠️ Technical Details:
 
 Airflow, with its intuitive interface and robust scheduling capabilities, plays a central role in this project. By running the code developed in Python through Airflow, I automated the extraction process. The extracted data is then seamlessly stored in an AWS S3 folder, ready for further analysis or utilisation in downstream processes.
-
-📈 Next Steps:
-
-While this project represents a solid foundation, it's only the beginning. In the coming weeks, I'll be exploring more intricate pipelines, diving deeper into data manipulation, and leveraging the full potential of tools like Airflow and AWS.
 
 🙏 Thank You:
 
